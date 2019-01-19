@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringMVCRequestParamWebApp:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpringMVCRequestParamWebApp_war</output-path>
+    <root id="archive" name="SpringMVCRequestParamWebApp_war.war">
+      <element id="artifact" artifact-name="SpringMVCRequestParamWebApp:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../Installations/apache-tomcat-9.0.14/apache-tomcat-9.0.14/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../../../Installations/apache-tomcat-9.0.14/apache-tomcat-9.0.14/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
