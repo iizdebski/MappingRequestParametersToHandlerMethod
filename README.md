@@ -1,0 +1,5 @@
+# MappingRequestParametersToHandlerMethod
+
+SpringMVCRequestParamWebApp
+
+SpringMVCRequestParamWebApp/registerSuccess
